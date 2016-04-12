@@ -1,2 +1,6 @@
 .idea
 src/conf/stdin
+src/*.pcap
+src/*.pcapng
+src/*.out
+src/pcap
